@@ -1,0 +1,55 @@
+.win-forge-policy-section {
+  padding: 60px 20px;
+  background: #1d1d1d; /* Тёмный фон */
+  color: #f5f5f5;
+}
+
+.win-forge-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.win-forge-policy-title {
+  font-size: 36px;
+  font-weight: bold;
+  text-align: center;
+  color: #f39c12; /* Золотой акцент */
+  margin-bottom: 40px;
+}
+
+.win-forge-policy-content {
+  font-size: 16px;
+  line-height: 1.8;
+}
+
+.win-forge-policy-subtitle {
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 30px;
+  color: #f39c12;
+}
+
+.win-forge-policy-header {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 20px;
+  color: #ffffff;
+}
+
+.win-forge-policy-list {
+  list-style: disc;
+  margin-left: 20px;
+}
+
+.win-forge-policy-list li {
+  margin: 10px 0;
+}
+
+.win-forge-policy-content a {
+  color: #f39c12;
+  text-decoration: none;
+}
+
+.win-forge-policy-content a:hover {
+  text-decoration: underline;
+}
